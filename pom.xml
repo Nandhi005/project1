@@ -37,7 +37,7 @@
             <!-- Hamcrest -->
             <dependency>
                 <groupId>org.hamcrest</groupId>
-                <artifactId>hamcrest-library</artifactId>
+                <artifactId>hamcrest-core</artifactId>
                 <version>2.2</version>
                 <scope>test</scope>
             </dependency>
@@ -130,5 +130,6 @@
         <maven>3.9.9</maven>
     </prerequisites>
 </project>
+
 
 
